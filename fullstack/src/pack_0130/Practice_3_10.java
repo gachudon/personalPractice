@@ -6,7 +6,7 @@ public class Practice_3_10 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		final double PI = 3.14;
+		final double PI = 3.14f;
 		
 		Scanner scan = new Scanner(System.in);
 		

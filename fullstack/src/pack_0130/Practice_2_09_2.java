@@ -1,6 +1,6 @@
 package pack_0130;
 
-public class Practice_2_9_2 {
+public class Practice_2_09_2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
