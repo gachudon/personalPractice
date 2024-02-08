@@ -38,6 +38,7 @@ public class Practice_5_25 {
 			else
 				System.out.printf("%d번 학생의 등급은 F입니다.\n",i);
 		}
+		scan.close();
 	}
 
 }

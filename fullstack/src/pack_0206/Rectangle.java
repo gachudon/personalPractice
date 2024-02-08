@@ -1,5 +1,13 @@
 package pack_0206;
 
+/*
+ * class Rectangle implements Drawable{
+ * 	public void draw(){
+ * 		System.out.println("사각형을 그리다");
+ * 	}
+ * }
+ * */
+
 public class Rectangle extends Shape{
 	private double width;
 	private double length;
